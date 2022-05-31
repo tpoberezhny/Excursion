@@ -1,0 +1,44 @@
+body {
+   background-color: black; 
+   text-align: center;
+   font-family: Verdana, sans-serif;
+   color: white;
+}
+
+.main_text {
+    color: white;
+    font-size: 25px;
+    font-weight: normal;
+    opacity: 0.9;
+}
+
+.download_link a {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+.your_travel_guide {
+    font-size: 24px;
+    font-weight: 300;
+    font-family: Verdana, sans-serif;
+    opacity: 0.9;
+}
+
+.desriprion_of_block {
+    font-size: 21px;
+    color: gray;
+    font-family: Verdana, sans-serif;
+}
+
+.app_for_phones {
+padding-top: 25px;
+}
+
+.coming_out {
+    font-size: 24px;
+}
+
+.footer {
+    text-align: right;
+    opacity: 0.6;
+}
